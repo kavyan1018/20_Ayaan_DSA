@@ -1,0 +1,78 @@
+C, C++, JAVA , Python  
+
+
+algo  -> 
+1.AK47      2.pistol      3.water gun        4. rifle        5. machine gun
+
+            1. 1km   2.multiples    3. city -> gun noo 
+
+
+DS 
+
+    memory 
+        -> various form of data store 
+        data - manage and store data
+
+
+
+    programs => 
+                    applications -> 
+                                450 MB - 1 TB - space 
+                                Login -> 1.5 minute -> time 
+
+
+            1. time complexity   -- time
+            2. space complexity  -- space
+
+
+
+                                DS 
+
+            1. Linear DS                        2. Non Linear DS
+                -> array                              -> tree
+                -> linked list                       -> graph
+                -> stack                              
+                -> queue
+                
+
+            searching -> 
+                    1. linear search
+                    2. binary search
+
+            sorting ->
+                    1. bubble sort
+                    2. selection sort
+                    3. insertion sort
+                    4. merge sort
+                    5. quick sort
+
+
+--------------------------------------------------
+
+
+tools -> DS -> 
+    programming language -> 
+
+    1. C
+    2. C++  
+    3. JAVA
+    4. Python
+    5. JavaScript
+    6. Ruby 
+
+
+    C  -> dS -> (VS)
+
+
+--------------------------------------------------------
+
+
+Array  ->   
+
+        collections of similar data type
+        under a single name we can store multiple data items
+        it alloctes the memory in continuous order 
+        you can access the data using index
+
+
+                int a[10];   -> ? bytes   -> 1kb -> 2 bytes   ->  // 2 * 10 -> 20 bytes  
