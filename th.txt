@@ -76,3 +76,9 @@ Array  ->
 
 
                 int a[10];   -> ? bytes   -> 1kb -> 2 bytes   ->  // 2 * 10 -> 20 bytes  
+
+
+
+
+Linked List ->
+
